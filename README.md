@@ -2,7 +2,7 @@
 - 👀 I’m interested in web development 
 - 🌱 I’m currently learning HTML,CSS, JavaScript and SQL later 
 - 💞️ I’m looking to collaborate on everything to learn more and developing my skills 
-- 📫 How to reach me, tou can send me a mail 
+- 📫 How to reach me, you can send me a mail 
 
 <!---
 Afiavi/Afiavi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
